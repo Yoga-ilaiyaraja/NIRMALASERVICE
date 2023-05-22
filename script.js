@@ -1,3 +1,4 @@
+alert('This page is under construction.zoom in/out for the bess=t view')
 function bigc(img){
 document.querySelector('.bigc').src=img;
 }
